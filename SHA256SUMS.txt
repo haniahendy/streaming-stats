@@ -1,0 +1,8 @@
+f1c2d540797d257feaba498296bb718c95bdbd9b5bc60f5634a363543a3c28d5  ./README.md
+5dcc8c599a75ad6347613eeae2bf3273d72df6256a960a9cb8cbc090ec5c940b  ./src/streamstats/__init__.py
+5037641111a25a16d43b6f3fcd59cdad8c73ba61978d96e876d605bc18aab880  ./src/streamstats/cli.py
+e28a614f6473ea74c0eece5ee62b15d4285ef01aecbb2d916b4360c0bb2f65a9  ./src/streamstats/ema.py
+0272c7c91b19a5fc86786ab1a319ad6c654e6d49e37e3d2842194e07a4956f41  ./src/streamstats/p2quantile.py
+80007e0142618f199f9d86ee8b30cc73c91affaa44242153d9f3ab40784c413e  ./src/streamstats/reservoir.py
+d257af0172e9286146adb2c86c52160e144df00206a42ff03ab1a5190fc083c9  ./src/streamstats/welford.py
+452d21657d3298527927840c4d07b3adf1d567ca00a3eb4fbce4a6e042116723  ./tests/test_streamstats.py
